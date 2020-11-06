@@ -1,0 +1,16 @@
+body{
+  background-color: tan;
+}
+div{
+  background: teal;
+  border-color: tomato;
+  border-width: 10px;
+  border-style: dotted;
+}
+p{
+  color: chocolate;
+}
+span{
+  background: coral;
+  color: black;
+}

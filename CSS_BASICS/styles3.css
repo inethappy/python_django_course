@@ -1,0 +1,23 @@
+.firstDiv{
+  color: tomato;
+}
+
+.secondDiv{
+  color: cadetblue;
+}
+#singleP{
+  color: darkorange;
+  text-decoration: line-through;
+}
+
+h3 + ul{
+  border: 4px dotted palegreen;
+}
+
+li a{
+  color: crimson;
+}
+
+li a[href="https://www.google.com"]{
+  border: 5px solid violet;
+}
